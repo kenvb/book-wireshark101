@@ -1,4 +1,4 @@
-# Introduction
+# Wireshark 101
 
 In deze korte handleiding / tutorial bekijken we het programma Wireshark onder Windows. Dit geldt ook in grote lijnen voor de Linux/OSX versies. We zien onder andere:
 
